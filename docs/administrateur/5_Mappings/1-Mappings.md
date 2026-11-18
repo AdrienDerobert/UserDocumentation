@@ -74,7 +74,7 @@ L'import d'un _mapping_ ouvre une boîte de dialogue qui propose à l'utilisateu
 :::warning Format des _mappings_
 Les _mappings_ à importer doivent être dans un format `json` valide, et ne contenir que des propriétés préalablement renseignées dans les **Types de propriétés personnalisées**, paramétrables depuis le menu applicatif <Icon icon={["fa", "gear"]} /> **Administration**.
 
-[**Configuration des propriétés personalisées**](/docs/administrateur/Configurations/proprietes) <Icon icon={["fa", "arrow-up-right-from-square"]} />.
+[**Configuration des propriétés personalisées**]() <Icon icon={["fa", "arrow-up-right-from-square"]} />.
 :::
 
 :::tip Communauté NumaHOP

@@ -47,4 +47,4 @@ Les données du catalogue CALAMES sont moissonnables grâce au protocole OAI-PMH
 
 ## Chargement dans NumaHOP
 
-Le fichier `.xml`  peut être chargé dans NumaHOP en suivant les procedures d'import [des notice simples](/docs/utilisateur/5_Imports/1-notices-simples.md) ou des [notices mères-filles](/docs/utilisateur/5_Imports/2-notices-meres-filles.md).
+Le fichier `.xml`  peut être chargé dans NumaHOP en suivant les procedures d'import [des notice simples]() ou des [notices mères-filles]().
