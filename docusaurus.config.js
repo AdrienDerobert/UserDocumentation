@@ -19,7 +19,7 @@ const config = {
   projectName: 'UserDocumentation',
 
   // Configuration pour GitHub Pages - trailingSlash activé
-  trailingSlash: true,
+  trailingSlash: false,
 
   // Gestion des liens brisés
   onBrokenLinks: 'throw',
@@ -110,9 +110,8 @@ const config = {
             label: '@NumaWork',
             position: 'left',
           },
-          // --- NOUVEAU : Un seul bouton "Documentation" ---
           {
-            to: '/docs/introduction', // ou '/docs' si tu veux une page d'accueil
+            to: '/docs/introduction',
             label: 'Documentation',
             position: 'left',
           },

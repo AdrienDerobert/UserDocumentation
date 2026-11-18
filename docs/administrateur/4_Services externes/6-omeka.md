@@ -26,7 +26,7 @@ Cette interface permet de régler les paramétrages vers Omeka :
 
 Pour pouvoir configurer une sortie Omeka, il est nécessaire de disposer de droits de type « Administrateur » avec l’habilitation CONF-DIFFUSION-OMEKA-HAB1 (Administration – gestion des configurations Omeka: création/modification). 
 
-Se référer à [Gestion des profils](docs/administrateur/1_Groupes%20&%20utilisateurs/4-profils.md)
+Se référer à [Gestion des profils](/docs/administrateur/utilisateurs#gestion-des-profils)
 :::
 
 

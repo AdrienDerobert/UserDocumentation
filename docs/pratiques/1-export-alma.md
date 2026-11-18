@@ -73,6 +73,6 @@ Un profil de publication spécifique **NumaHOP** edoit être paramétré et édi
 
 ## Chargement dans NumaHOP
 
-Le fichier `.xml` peut être chargé dans NumaHOP en suivant la [procédure d'import des notice simples](docs/utilisateur/5_Imports/1-notices-simples.md)
+Le fichier `.xml` peut être chargé dans NumaHOP en suivant la [procédure d'import des notices simples](/docs/utilisateur/import)
 
 

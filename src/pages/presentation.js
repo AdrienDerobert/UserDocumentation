@@ -16,7 +16,7 @@ const features = [
       { label: 'Projets', link: '/docs/utilisateur/gestion-projets' },
       { label: 'Lots', link: '/docs/utilisateur/gestion-lots' },
       { label: 'Trains', link: '/docs/utilisateur/gestion-trains' },
-      { label: 'Unités documentaires', link: '/docs/utilisateur/Unités%20documentaires/ud-gestion-unitaire' },
+      { label: 'Unités documentaires', link: '/docs/utilisateur/gestion-ud' },
     ]
   },
   {
@@ -24,8 +24,8 @@ const features = [
     icon: faUsers,
     description: 'Travaillez en équipe au sein de votre établissement et avec vos partenaires, en configurant des rôles et permissions spécifiques à chaque utilisateurs.',
     tags: [
-      { label: 'Groupes', link: '/docs/administrateur/Groupes%20&%20utilisateurs/groupes' },
-      { label: 'Utilisateurs', link: '/docs/administrateur/Groupes%20&%20utilisateurs/utilisateurs' },
+      { label: 'Groupes', link: '/docs/administrateur/utilisateurs#gestion-des-groupes' },
+      { label: 'Utilisateurs', link: '/docs/administrateur/utilisateurs#gestion-des-utilisateurs' },
       { label: "Livraisons", link: '/docs/utilisateur/gestion-livraisons' }
     ]
   },
@@ -34,7 +34,7 @@ const features = [
     icon: faSliders,
     description: 'Adaptez les worflows, les constats d\'état et les contrôles aux besoins spécifiques à votre établissement et à chacun de vos projets de numérisation.',
     tags: [
-      { label: 'Worflows', link: '/docs/administrateur/Configurations/workflows' },
+      { label: 'Workflows', link: '/docs/administrateur/Configurations/workflows' },
       { label: 'Contrôles', link: '/docs/administrateur/Configurations/controles' },
       { label: 'Constat d\'états', link: '/docs/utilisateur/constat-etat-unitaire' }
     ]
@@ -45,7 +45,7 @@ const features = [
     description: 'Importez et dérivez les données natives de vos systèmes d\'information documentaire vers le standard interopérable Dublin Core.',
     tags: [
       { label: 'Mappings', link: "/docs/administrateur/Mappings/Mappings" },
-      { label: 'Import de notices', link: '/docs/utilisateur/Imports/notices-simples' }
+      { label: 'Import de notices', link: '/docs/utilisateur/import' }
     ]
   },
   {
@@ -53,8 +53,8 @@ const features = [
     icon: faCheckDouble,
     description: 'Facilitez le travail de contrôle en parametrant les contrôles automatiques et manuels en fonction vos entreprises de numérisation.',
     tags: [
-      { label: 'Contrôles automatiques', link: '/docs/utilisateur/Contrôles/controles-automatiques' },
-      { label: 'Contrôles manuels', link: '/docs/utilisateur/Contrôles/controles-manuels' }
+      { label: 'Contrôles automatiques', link: '/docs/utilisateur/controles#controles-automatiques' },
+      { label: 'Contrôles manuels', link: '/docs/utilisateur/controles#controles-manuels' }
     ]
   },
   {
@@ -62,9 +62,9 @@ const features = [
     icon: faFileExport,
     description: 'Disséminez vos unités documentaires et leurs dérivées sur différentes plateformes de diffusion et d\'archivage.',
     tags: [
-      { label: 'Archivage', link: '/docs/utilisateur/Archivage/archivage-cines' },
-      { label: 'Export', link: '/docs/introduction' },
-      { label: 'Fichiers dérivés', link: '/docs/introduction' }
+      { label: 'Archivage', link: '/docs/utilisateur/archivage' },
+      { label: 'Export', link: '/docs/introduction/interface' },
+      { label: 'Fichiers dérivés', link: '/docs/introduction/interface' }
     ],
   },
 ];
@@ -151,7 +151,7 @@ const PresentationPage = () => {
                 sans modules tiers et multiples, accessible à toute l'équipe des projets.</li>
               <li><strong>Une plus grande fiabilité et qualité</strong> sur toutes
                 les étapes de la chaîne : de l'import à la conversion, en passant par le contrôle qualité.</li>
-              <li><strong>Une meuilleure prise en main</strong> par les équipes : outil
+              <li><strong>Une meilleure prise en main</strong> par les équipes : outil
                 intégré pour toutes les étapes, assurant confort de travail
                 et ergonomie.</li>
               <li><strong>Des coûts limités :</strong> des fichiers dérivés et OCR produits

@@ -10,7 +10,7 @@ import Icon from '@site/src/components/Icon';
 :::warning En cours de rédaction
 :::
 
-# <Icon icon={["fa", "building-columns"]} /> Gestion des bibliothèques
+# <Icon icon={["fa", "building-columns"]} /> Gestion des bibliothèques {#gestion-des-bibliothèques}
 
 
 ## Présentation
@@ -65,7 +65,7 @@ Les bibliothèques ont un espace disque associé : quand une nouvelle bibliothè
 :::
 
 
-# <Icon icon={["fa", "user-gear"]} /> Gestion des utilisateurs
+# <Icon icon={["fa", "user-gear"]} /> Gestion des utilisateurs {#gestion-des-utilisateurs}
 
 Pour pouvoir créer des utilisateurs, il est nécessaire de disposer de
 l’habilitation USER-HAB1 (Gestion des utilisateurs : création).
@@ -85,8 +85,8 @@ Remplir le formulaire. Les champs obligatoires sont :
 - Le prénom de l’utilisateur
 - Le mot de passe : il sert à la 1ère connexion et pourra ensuite être modifié par l’utilisateur
 - Le courriel
-- La bibliothèque : à partir de la liste des [bibliothèques créées dans Numahop](docs/administrateur/1_Groupes%20&%20utilisateurs/1-bibliotheques.md)
-- Le profil : dans la liste [des profils créés dans Numahop](docs/administrateur/1_Groupes%20&%20utilisateurs/4-profils.md)
+- La bibliothèque : à partir de la liste des [bibliothèques créées dans Numahop](#gestion-des-bibliothèques)
+- Le profil : dans la liste [des profils créés dans Numahop](#gestion-des-profils)
 
 Pour le champ **Actif**, cocher le bouton **oui** pour permettre à
 l’utilisateur créé de pouvoir agir dans Numahop.
@@ -97,7 +97,7 @@ indiquant ses identifiant et mot de passe de connexion à NumaHOP.
 
 ## Rattacher l'utilisateur à un groupe
 
-Pour compléter la création de l’utilisateur,il est nécessaire de l'[ajouter à un/des groupe(s) de workflows](docs/administrateur/1_Groupes%20&%20utilisateurs/3-groupes.md).
+Pour compléter la création de l’utilisateur,il est nécessaire de l'[ajouter à un/des groupe(s) de workflows](#gestion-des-groupes).
 
 La rubrique **Utilisateurs** donne aussi accès à la liste des
 utilisateurs créés avec des possibilités de recherche et de filtrage (<Icon icon={["fa", "filter"]} />).
@@ -118,7 +118,7 @@ Le bouton <Icon icon={["fa", "bars"]} /> **Autres actions** permet de :
 - Configurer un nouveau mot de passe 
 
 
-# <Icon icon={["fa", "users-gear"]} /> Gestion des groupes
+# <Icon icon={["fa", "users-gear"]} /> Gestion des groupes {#gestion-des-groupes}
 
 ## Qu'est-ce qu'un groupe d'utilisateurs ?
 
@@ -154,7 +154,7 @@ Les groupes sont ensuite utilisés dans les modèles de
 [**Workflow**](docs/administrateur/3_Configurations/1_workflows.md#la-cr%C3%A9ation-de-mod%C3%A8les-de-workflow
 )
 
-# <Icon icon={["fa", "users-rectangle"]} /> Gestion des profils:
+# <Icon icon={["fa", "users-rectangle"]} /> Gestion des profils: {#gestion-des-profils}
 
 :::warning Page en cours de rédaction
 :::
