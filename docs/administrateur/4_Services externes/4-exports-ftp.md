@@ -9,6 +9,9 @@ import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "server"]} /> Configurations des serveurs d'export FTP
 
+:::warning Page en cours de rédaction
+:::
+
 ## Présentation
 
 Cette page permet de :

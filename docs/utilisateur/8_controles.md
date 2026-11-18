@@ -1,11 +1,18 @@
 ---
-title: Contrôles manuels
-sidebar_label: Contrôles manuels
-sidebar_position: 2
-description: Contrôles manuels
+title: Contrôle qualité
+sidebar_label: Contrôle qualité
+sidebar_position: 8
+description: Gestion du contrôle qualité dans NumaHOP.
 ---
 
 import Icon from '@site/src/components/Icon';
+
+# <Icon icon={["fa", "eye"]} /> Contrôles automatiques
+
+:::warning Page en cours de rédaction
+:::
+
+
 
 # <Icon icon={["fa", "eye"]} /> Contrôles manuels
 

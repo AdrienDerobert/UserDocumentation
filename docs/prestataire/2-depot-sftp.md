@@ -1,11 +1,14 @@
 ---
-title: Guide de dépôt sur un FTP
-sidebar_label: Guide de dépôt sur un FTP
-sidebar_position: 27
+title: Dépôt FTP
+sidebar_label: Dépôt FTP
+sidebar_position: 2
 description: Guide de dépôt sur un FTP à l'attention des prestataires de numérisation
 ---
 
 # Guide de dépôt sur un FTP
+
+:::warning Page en cours de rédaction.
+:::
 
 Page rédigée sur le modèle du FTP utilisé par Sciences Po Paris.
 

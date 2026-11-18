@@ -9,6 +9,9 @@ import Icon from '@site/src/components/Icon';
 
 ## <Icon icon={["fa", "file-lines"]} />Configuration des constats d'état
 
+:::warning En cours de rédaction
+:::
+
 ### Le template de constat d'état dans NumaHOP
 
 Paramétrer la grille de constat d’état pour la simplifier ou l’adapter à

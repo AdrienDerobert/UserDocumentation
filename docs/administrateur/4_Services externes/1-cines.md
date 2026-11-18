@@ -9,6 +9,9 @@ import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "folder-tree"]} /> Configurations CINES
 
+:::warning Page en cours de rédaction
+:::
+
 ## Présentation
 
 Cette interface permet de régler les paramétrages du CINES :

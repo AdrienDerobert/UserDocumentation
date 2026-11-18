@@ -1,8 +1,8 @@
 ---
-title: Gestion des livraisons
-sidebar_label: Gestion des livraisons
-sidebar_position: 1
-description: Gestion des livraisons
+title: Livraisons
+sidebar_label: Livraisons
+sidebar_position: 7
+description: Gestion des livraisons dans NumaHop.
 ---
 
 import Icon from '@site/src/components/Icon';

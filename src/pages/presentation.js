@@ -148,14 +148,14 @@ const PresentationPage = () => {
               et la dissémination de vos collections.</p>
             <ul>
               <li><strong>Un gain de temps</strong> : un outil intégré unique,
-                sans modules tiers et multiples.</li>
+                sans modules tiers et multiples, accessible à toute l'équipe des projets.</li>
               <li><strong>Une plus grande fiabilité et qualité</strong> sur toutes
-                les étapes de la chaîne : des contrôles et des conversions automatisés.</li>
+                les étapes de la chaîne : de l'import à la conversion, en passant par le contrôle qualité.</li>
               <li><strong>Une meuilleure prise en main</strong> par les équipes : outil
                 intégré pour toutes les étapes, assurant confort de travail
                 et ergonomie.</li>
               <li><strong>Des coûts limités :</strong> des fichiers dérivés et OCR produits
-                directement dans la plateforme.</li></ul>
+                directement dans la plateforme, et des exports vers les outils de diffusion et d'archivage.</li></ul>
             <p>Que vous soyez une petite bibliothèque ou une grande
               institution, NumaHOP s'adapte à vos besoins et vous
               accompagne dans votre transition numérique.</p>

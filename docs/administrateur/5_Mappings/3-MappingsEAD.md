@@ -8,6 +8,8 @@ import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "file-code"]} /> Mappings EAD
 
+:::warning Page en cours de rédaction
+:::
 
 # Créer un mapping EAD
 

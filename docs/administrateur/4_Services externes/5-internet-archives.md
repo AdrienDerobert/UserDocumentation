@@ -9,6 +9,9 @@ import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "boxes-stacked"]} /> Configurations Internet Archive
 
+
+:::warning Page en cours de rédaction
+:::
 ## Présentation
 
 Cette page permet de configurer la diffusion automatique vers Internet Archive :

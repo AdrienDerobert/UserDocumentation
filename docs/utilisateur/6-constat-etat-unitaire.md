@@ -1,8 +1,8 @@
 ---
-title: Gestion des constats d'état
-sidebar_label: Gestion des constats d'état
-sidebar_position: 1
-description: Gestion des constats d'état
+title: Constats d'état
+sidebar_label: Constats d'état
+sidebar_position: 6
+description: Gestion des constats d'état dans NumaHop
 ---
 
 import Icon from '@site/src/components/Icon';

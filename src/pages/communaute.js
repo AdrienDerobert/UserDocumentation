@@ -70,12 +70,12 @@ const membres = [
     logo: '/img/logos/mnhn-logo.png',
     siteInternet: 'https://www.mnhn.fr/fr/bibliotheques-du-museum',
   },*/
-  {
+  /*{
     nom: 'Université Claude Bernard Lyon I',
     ville: 'Lyon',
     logo: '/img/logos/lyon1-logo.png',
     siteInternet: 'https://www.univ-lyon1.fr/',
-  },
+  },*/
   {
     nom: 'Médiathèque Simonne Veil',
     ville: 'Valenciennes',
@@ -114,14 +114,14 @@ const membres = [
     logo: '/img/logos/mqb-logo.png',
     siteInternet: 'https://www.quaibranly.fr/fr/',
   },
-    {
+  {
     nom: 'Musée du Louvre',
     ville: 'Paris',
     logo: '/img/logos/louvre-logo.png',
     siteInternet: 'https://www.louvre.fr/',
     bibliothequeNumerique: 'https://collections.louvre.fr/'
   },
-    {
+  {
     nom: 'Musée d\'Orsay',
     ville: 'Paris',
     logo: '/img/logos/orsay-logo.png',
@@ -179,8 +179,8 @@ const CommunautePage = () => {
             <p>L'association œuvre à partager les pratiques et à
               renforcer les dynamiques de mutualisation,
               en menant des <strong>actions de communication, de formation, de
-              traduction, et de documentation</strong>, et porte les développements de nouvelles
-              fonctionnalités pour logiciel libre.</p>
+                traduction, et de documentation</strong>, et porte les développements de nouvelles
+              fonctionnalités pour le logiciel libre.</p>
             <p>Elle est composée de membres institutionnels
               et de prestataires privés, tous engagés dans la
               préservation et la valorisation du patrimoine culturel numérique.</p>
@@ -189,7 +189,7 @@ const CommunautePage = () => {
               coordonner ces actions à l'échelle nationale et internationale,
               avec pour objectif d'assurer l'évolution du logiciel, et sa
               promotion aurpès des professionnels du secteur.</p>
-            <a href="/statuts">Les statuts de l'association NumaHOP <FontAwesomeIcon icon={faExternalLinkAlt} /></a>
+            <a href="/UserDocumentation/statuts">Les statuts de l'association NumaHOP <FontAwesomeIcon icon={faExternalLinkAlt} /></a>
 
           </div>
 

@@ -8,7 +8,8 @@ import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "file-csv"]} /> Mappings CSV
 
-Import de notices via fichier CSV
+:::warning Page en cours de rédaction
+:::
 
 ### Mapping d’import dans NumaHOP
 

@@ -8,6 +8,9 @@ import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "file-word"]} /> Mappings MARC
 
+:::warning Page en cours de rédaction
+:::
+
 Les fonctions spécifiques sont accessibles dans le menu contextuel de
 chaque zone concernée (clic droit avec la souris) :
 

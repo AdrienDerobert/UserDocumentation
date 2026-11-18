@@ -1,13 +1,16 @@
 ---
-title: Gestion des projets
-sidebar_label: Gestion des projets
-sidebar_position: 1
-description: Gestion des projets
+title: Projets
+sidebar_label: Projets
+sidebar_position: 2
+description: Gestion des projets dans NumaHOP.
 ---
 
 import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "diagram-project"]} /> Gestion des projets
+
+:::warning Page en cours de rédaction
+:::
 
 
 Vous pouvez créer des trains associés aux projets et y associer des

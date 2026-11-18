@@ -9,6 +9,8 @@ import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "laptop-file"]} /> Configurations Omeka
 
+:::warning Page en cours de rédaction
+:::
 
 ## Présentation
 

@@ -180,7 +180,7 @@ export default function StatutsPage() {
           </p>
 
           <p>
-            <em><a href="https://annuaire-entreprises.data.gouv.fr/entreprise/association-numahop-924455132#etablissements">Statuts déposés le 22 janvier 2026</a> <FontAwesomeIcon icon={faExternalLinkAlt} />.</em>
+            <em><a href="https://annuaire-entreprises.data.gouv.fr/entreprise/association-numahop-924455132">Statuts déposés le 22 janvier 2026</a> <FontAwesomeIcon icon={faExternalLinkAlt} />.</em>
           </p>
         </div>
       </div>

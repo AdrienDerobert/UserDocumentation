@@ -1,13 +1,16 @@
 ---
-title: Gestion des lots
-sidebar_label: Gestion des lots
-sidebar_position: 1
-description: Gestion des lots
+title: Lots
+sidebar_label: Lots
+sidebar_position: 3
+description: Gestion des lots dans NumaHOP.
 ---
 
 import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "cart-flatbed-suitcase"]} /> Gestion des lots
+
+:::warning Page en cours de rédaction
+:::
 
 Un lot est associé à un seul projet et permet une répartition
 intellectuelle des unités documentaires d’un projet.

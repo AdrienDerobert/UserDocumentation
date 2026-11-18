@@ -1,13 +1,16 @@
 ---
-title: Import de notices simples
-sidebar_label: Import de notices simples
-sidebar_position: 1
-description: Import de notices simples
+title: Import
+sidebar_label: Import
+sidebar_position: 5
+description: Import de notices et d'unités documentaires dans NumaHOP.
 ---
 
 import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "download"]} /> Import de notices simples
+
+:::warning Page en cours de rédaction
+:::
 
 ## Import de notice bibliographique à partir d’un fichier MARC XML
 
@@ -321,3 +324,13 @@ Le pré import est fait, on peut visualiser les erreurs :
 
 ### Visualisation des erreurs
 - Une fois le pré-import terminé, les erreurs éventuelles peuvent être visualisées.
+
+# <Icon icon={["fa", "download"]} /> Import de notices mères/filles
+
+:::warning Page en cours de rédaction
+:::
+
+# <Icon icon={["fa", "download"]} /> Erreurs possibles sur les imports
+
+:::warning Page en cours de rédaction
+:::

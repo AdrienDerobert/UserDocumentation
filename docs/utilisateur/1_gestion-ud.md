@@ -1,13 +1,17 @@
 ---
-title: Gestion unitaire des unités documentaires
-sidebar_label: Gestion unitaire
+title: Unités documentaires
+sidebar_label: Unités documentaires
 sidebar_position: 1
-description: Gestion unitaire des unités documentaires
+description: Gestion des unités documentaires dans NumaHOP.
 ---
 
 import Icon from '@site/src/components/Icon';
 
+:::warning Page en cours de rédaction
+:::
+
 ## <Icon icon={["fa", "info"]} /> Informations
+
 
 ### Identifiant PGCN
 
@@ -98,3 +102,8 @@ Une fois la fiche remplie, cliquez sur Enregistrer.
 ### <Icon icon={["fa", "list-check"]} /> Constats d'état
 
 ### <Icon icon={["fa", "chart-diagram"]} /> Workflows
+
+# Gestion groupée des unitées documentaires
+
+:::warning Page en cours de rédaction
+:::

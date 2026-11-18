@@ -9,6 +9,9 @@ import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "thumbs-up"]} /> Bonnes pratiques
 
+:::warning En cours de rédaction
+:::
+
 
 Le **dimensionnement** d’une application comme NumaHOP dépend de multiples facteurs interconnectés (nombre d’utilisateurs actifs, ressources du serveur, volume et taille des données, niveau de concurrence des traitements). Cette complexité rend nécessaire l’adoption de **bonnes pratiques** pour garantir la stabilité, la performance et la qualité des processus.
 

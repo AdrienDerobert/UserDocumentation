@@ -1,8 +1,8 @@
 ---
-title: Gestion des trains
-sidebar_label: Gestion des trains
-sidebar_position: 1
-description: Gestion des trains
+title: Trains
+sidebar_label: Trains
+sidebar_position: 4
+description: Gestion des trains dans NumaHOP.
 ---
 
 import Icon from '@site/src/components/Icon';

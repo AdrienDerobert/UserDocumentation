@@ -1,11 +1,14 @@
 ---
 title: Workflows
 sidebar_label: Workflows
-sidebar_position: 3
+sidebar_position: 1
 description: Configuration des worflows
 ---
 
 import Icon from '@site/src/components/Icon';
+
+:::warning En cours de rédaction
+:::
 
 ## <Icon icon={["fa", "chart-diagram"]} /> Configuration des workflows
 

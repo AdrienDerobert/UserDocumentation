@@ -9,6 +9,9 @@ import Icon from '@site/src/components/Icon';
 
 # <Icon icon={["fa", "shuffle"]} /> Mappings: généralités
 
+:::warning Page en cours de rédaction
+:::
+
 Les _mappings_ sont des **fichiers de configuration des correspondances** entre et les notices bibliographiques issues des systèmes d'information documentaire (SIGB) et de systèmes d'information archivistique (SIA) et les unités documentaires de l'application Numahop.
 
 Ils sont employés au moment de l’**import de notices** dans l’application NumaHOP, et permettent leur conversion vers le standard interopérable **Dublin Core**.
