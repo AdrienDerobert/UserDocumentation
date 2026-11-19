@@ -48,10 +48,10 @@ L'utilisateur peut modifier certaines informations le concernant en fonction de 
 
 ### Par l'utilisateur
 
-Un utilisateur peut changer lui-même son mot de passe directement depuis le menu derroulant du bandeau d'en-tête de Numahop, en cliquant sur le nom de l'utilisateur **Prénom** <Icon icon={["fa", "caret-down"]} />, puis en selectionnant l'option <Icon icon={["fa", "lock"]} /> **Mot de passe**.
+Un utilisateur peut changer lui-même son mot de passe directement depuis le menu déroulant du bandeau d'en-tête de NumaHOP, en cliquant sur le nom de l'utilisateur **Prénom** <Icon icon={["fa", "caret-down"]} />, puis en sélectionnant l'option <Icon icon={["fa", "lock"]} /> **Mot de passe**.
 
-En cas d’oubli de son mot de passe, un utilisateur peut le réinitialiser, sans passer par un administrateur, depuis l’écran de connexion, en cliquant sur **"Mot de passe oublié ?"**. L’utilisateur saisit alors son login et le nouveau mot de passe est envoyé à l'email renséigné sur son compte.
+En cas d’oubli de son mot de passe, un utilisateur peut le réinitialiser, sans passer par un administrateur, depuis l’écran de connexion, en cliquant sur **"Mot de passe oublié ?"**. L’utilisateur saisit alors son login et le nouveau mot de passe est envoyé à l'email renseigné sur son compte.
 
 ### Par l'administrateur
 
-En cas de perte, un nouveau mot de passe peut être généré par un administrateur, depuis le menu applicatif <Icon icon={["fa", "user"]} /> **Utilisateurs**, puis en selectionnant l'utilisateur concerné. Dans le menu déroulant <Icon icon={["fa", "bars"]} /> **Autres actions**, l'option  **"Nouveau mot de passe"** permet de générer un nouveau mot de passe qui s'affiche alors dans un volet à droite <Icon icon={["fa", "circle-info"]} /> **Information**.
+En cas de perte, un nouveau mot de passe peut être généré par un administrateur, depuis le menu applicatif <Icon icon={["fa", "user"]} /> **Utilisateurs**, puis en sélectionnant l'utilisateur concerné. Dans le menu déroulant <Icon icon={["fa", "bars"]} /> **Autres actions**, l'option  **"Nouveau mot de passe"** permet de générer un nouveau mot de passe qui s'affiche alors dans un volet à droite <Icon icon={["fa", "circle-info"]} /> **Information**.
